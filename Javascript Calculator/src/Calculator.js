@@ -205,8 +205,8 @@ class Calculator extends React.Component {
           />
         </div>
         <Author
-          name="Abdullah Furkan Özbek"
-          github="https://github.com/afozbek"
+          name="Rafiur Rahman"
+          github="https://github.com/rafiurrafi"
         />
       </div>
     );
